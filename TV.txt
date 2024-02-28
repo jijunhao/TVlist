@@ -139,3 +139,5 @@ BesTV百变课堂,http://43.141.130.70/fjnetv51.live.bestvcdn.com.cn/0/live/prog
 BesTV华语影院,http://43.141.130.70/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hyyy8m/8000000/d3.m3u8
 BesTV全球大片,http://43.141.130.70/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/qqdp8m/8000000/d3.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+
