@@ -5,11 +5,11 @@
 例如CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 + IP加速（未知波段）
   
-39.134.24.161
+http://39.134.24.161
 
-39.134.24.162
+http://39.134.24.162
 
-39.134.24.166
+http://39.134.24.166
 
 + IPv6加速
   
@@ -21,13 +21,13 @@ http://[2409:8087:7001:20:2::3]:80
 例如CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 + IP
   
-39.135.134.34:80
+http://39.135.134.34:80
 
 ## yinhe
 例如CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 + CDN加速(IPv6)
 
-zteres.sn.chinamobile.com:6060
+http://zteres.sn.chinamobile.com:6060
 
 + IPv6加速
 
