@@ -1,5 +1,5 @@
 # TVlist
-自用的源（[wtv](https://github.com/biancangming/wtv)检测通过）
+自用的源
 
 ## 陕西移动
 例如CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
